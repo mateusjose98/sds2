@@ -8,13 +8,13 @@ function Footer() {
         <footer className="main-footer">
             App desenvolvido durante a segunda edição da Semana Dev. Superior.
         <div className="footer-icons">
-            <a href="#" target="_new">
+            <a href="https://google.com.br" target="_new">
                 <YouTubeIcon />
             </a>
-            <a href="#" target="_new">
+            <a href="https://google.com.br" target="_new">
                 <LinkedinIcon />
             </a>
-            <a href="#" target="_new">
+            <a href="https://google.com.br" target="_new">
                 <InstagramIcon />
             </a>
         </div>

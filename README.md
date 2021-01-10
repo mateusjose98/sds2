@@ -41,7 +41,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/mateusjose98/sds2
 # entrar na pasta do projeto back end
 cd backend
 # executar o projeto
