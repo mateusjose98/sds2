@@ -12,12 +12,12 @@ A aplicação consiste em um mini-sistema de pedidos onde o cliente escolhe os p
 ![Mobile 1](LINK-GITHUB) ![Mobile 2](LINK-GITHUB)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/mateusjose98/sds2/blob/main/front-web/assets/home.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](LINK ORDERS)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
