@@ -2,14 +2,12 @@
 
 # Sobre o projeto
 
-(LINK DO PROJETO DE PRODUÇÃO)
+Link da aplicação em produção: https://jose-mateus-sds2.netlify.app/
 
  DS Deliver é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um mini-sistema de pedidos onde o cliente escolhe os produtos, realiza o pedido e um entregador pode acessar os pedidos pendentes para entregar.
 
-## Layout mobile
-![Mobile 1](LINK-GITHUB) ![Mobile 2](LINK-GITHUB)
 
 ## Layout web
 ![Web 1](https://github.com/mateusjose98/sds2/blob/main/front-web/assets/home.png)
