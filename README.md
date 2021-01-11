@@ -12,7 +12,9 @@ A aplicação consiste em um mini-sistema de pedidos onde o cliente escolhe os p
 ## Layout web
 ![Web 1](https://github.com/mateusjose98/sds2/blob/main/front-web/assets/home.png)
 
-![Web 2](LINK ORDERS)
+![Web 2](https://github.com/mateusjose98/sds2/blob/main/front-web/assets/orders.png)
+
+![Web 3](https://github.com/mateusjose98/sds2/blob/main/front-web/assets/maps.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png)
